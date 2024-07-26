@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **365 Days of coding**
 
-- 🌱 I’m currently learning **Cloud Applied Generative AI ,TypeScript**
+- 🌱 I’m currently learning **Cloud Applied Generative AI ,TypeScript,Nextjs,csstailwind**
 
 - 📫 How to reach me **maryamriaz800@gmail.com**
 
