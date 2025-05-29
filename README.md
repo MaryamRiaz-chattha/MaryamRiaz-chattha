@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryam Riaz</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamriaz-chattha&label=Profile%20views&color=0e75b6&style=flat" alt="maryamriaz-chattha" /> </p>
-<img src="[https://avatars.githubusercontent.com/u/583231?v=4](https://banner2.cleanpng.com/lnd/20240926/zp/41f8fead61ead12d36d4bc81b9e350.webp)" alt="Octocat" width="200" />
+<img src="https://banner2.cleanpng.com/lnd/20240926/zp/41f8fead61ead12d36d4bc81b9e350.webp" alt="Octocat" width="200" />
+
 
 
 
