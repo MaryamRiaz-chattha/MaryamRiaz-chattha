@@ -34,8 +34,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaryamRiaz-chattha&icon=0&color=10)](https://visitcount.itsvg.in)
-### 🔝 Top Contributed 
-![snake gif](https://github.com/MaryamRiaz-chattha/MaryamRiaz-chattha/blob/output/github-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
